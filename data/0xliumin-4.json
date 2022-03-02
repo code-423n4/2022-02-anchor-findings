@@ -1,0 +1,9 @@
+{
+  "contest": 82,
+  "handle": "0xliumin",
+  "address": "0x25E48B090B3104A3fB30B19AFB6f4850316c5bBF",
+  "risk": "2",
+  "title": "Failed polls still marked as executed in poll indexer",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2022-02-anchor-findings/issues/4"
+}
