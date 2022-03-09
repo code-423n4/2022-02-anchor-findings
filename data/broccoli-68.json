@@ -1,0 +1,9 @@
+{
+  "contest": 82,
+  "handle": "broccoli",
+  "address": "0xABb99042FAE2C86b8437585467a24a71b17d23bA",
+  "risk": "2",
+  "title": "`CrossAnchorBridge` does not handle fee-on-transfer tokens correctly",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2022-02-anchor-findings/issues/68"
+}
