@@ -1,0 +1,9 @@
+{
+  "contest": 82,
+  "handle": "BondiPestControl",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "`CrossAnchorBridge.sol` Does Not Support Fee-on-Transfer Tokens",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-02-anchor-findings/issues/65"
+}
