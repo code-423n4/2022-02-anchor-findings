@@ -1,0 +1,9 @@
+{
+  "contest": 82,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "[WP-M5] `liquidation_queue` Lack of input validation for `safe_ratio` can disrupt liquidation if misconfigured",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2022-02-anchor-findings/issues/49"
+}
