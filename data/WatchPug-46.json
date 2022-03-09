@@ -1,0 +1,9 @@
+{
+  "contest": 82,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H2] `money-market-contracts/contracts/market` `claim_rewards` may revert due to `spend_limit` set on `distributor` ",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2022-02-anchor-findings/issues/46"
+}
